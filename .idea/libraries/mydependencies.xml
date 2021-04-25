@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="mydependencies">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mydependencies/sqlite-jdbc-3.34.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mydependencies/rs2xml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mydependencies/sqlite-jdbc-3.7.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
