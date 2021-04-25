@@ -1,10 +1,10 @@
 # GPA Calculator [University For Development Studies]
-<p>Grade point calculator written in Java<p>
-This application was written in java and has GUI(Swing)
-It calculates your gpa by obtaining your 
-*Your course Name
-*Your Credit Hours
-*The Marks obtained
+Grade point calculator written in Java <br/>
+This application was written in java and has GUI(Swing)<br/>
+It calculates your gpa by obtaining your <br/>
+*Your course Name<br/>
+*Your Credit Hours<br/>
+*The Marks obtained<br/>
 
 It collects and store your records into a `Sqlite Database`
 It will then computate your Grade Point allocated for each mark your have obtained.
