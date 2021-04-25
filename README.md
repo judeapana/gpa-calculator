@@ -1,5 +1,5 @@
 # GPA Calculator [University For Development Studies]
-Grade point calculator written in Java
+<p>Grade point calculator written in Java<p>
 This application was written in java and has GUI(Swing)
 It calculates your gpa by obtaining your 
 *Your course Name
